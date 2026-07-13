@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO Wildberries"
+  short_description: "Собирает SEO через внутренний браузер Codex."
+  default_prompt: "Используй $skill-seo, чтобы через внутренний браузер Codex проверить артикулы конкурентов и подготовить итоговое SEO карточки Wildberries."
