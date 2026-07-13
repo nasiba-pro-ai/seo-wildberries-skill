@@ -16,8 +16,8 @@
 
 1. Распакуйте архив.
 2. Переместите папку `skill-seo` в папку навыков пользователя:
-   - macOS: `~/.agents/skills/skill-seo`
-   - Windows: `%USERPROFILE%\.agents\skills\skill-seo`
+   - macOS: ~/.codex/skills/skill-seo
+   - Windows: %USERPROFILE%\.codex\skills\skill-seo
 3. Перезапустите Codex.
 4. Откройте `Плагины -> Навыки` и найдите `SEO Wildberries`.
 
